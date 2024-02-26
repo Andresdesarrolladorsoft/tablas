@@ -1,0 +1,18 @@
+body{
+    background-color: lightseagreen;
+}
+h1{
+    background-color: aquamarine;
+    color: white;
+}
+th{
+    background-color: lightcoral;
+    color: white;
+}
+td{
+    background-color: lightgreen;
+    color: white;
+}
+i{
+    color: red;
+}
